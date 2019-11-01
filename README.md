@@ -8,6 +8,8 @@ learning React-Native by Building foking weather app
  Just Follow it distruction(https://github.com/expo/expo-cli/issues/1074)
  and fix it
  
+ \node_modules\metro-config\src\defaults\blacklist.js
+ 
  var sharedBlacklist = [
   /node_modules[/\\]react[/\\]dist[/\\].*/,
   /website\/node_modules\/.*/,
